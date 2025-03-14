@@ -25,24 +25,10 @@ JavaScript (ES6) - Core game logic, animations, and event handling.
 
 # 📂 Project Structure
 ![Game Structure](https://github.com/iamdipayandutta/Quack-Attack/blob/main/static/images/structure.png)
-/duck-hunt-game
-│── /static
-│   ├── /images
-│   │   ├── duckhuntbackground.jpg
-│   │   ├── image.png (Duck sprite)
-│   │   ├── pngegg.png (Gun image)
-│   │── /sounds
-│   │   ├── gunshot.mp3
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-🔧 Installation & Setup
 
-# Clone the repository
-Copy
-Edit
-git clone https://github.com/iamdipayandutta/Quack-Attack.git
+# 🔧 Installation & Setup
+Clone the repository
+git clone  - https://github.com/iamdipayandutta/Quack-Attack.git
 
 # Navigate to the project folder
 cd duck-hunt-game
