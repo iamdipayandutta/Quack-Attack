@@ -1,4 +1,4 @@
-# 🎯 Duck Hunt - Retro Shooting Game
+# 🎯 Quack Attack - Retro Shooting Game
 A classic duck hunting game inspired by the old-school Duck Hunt! Built with JavaScript, HTML5 Canvas, and CSS, this project brings back the nostalgia of aiming, shooting, and scoring points.
 
 ![Duck Hunt Clone Gameplay](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHB3OXZtZ29uNTJldmZnbjdrYndyeTBveXBleHB5ZGJ0Y242ZG85NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rUkCwKDaj9UnvHkj0D/giphy.gif)
