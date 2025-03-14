@@ -24,7 +24,7 @@ CSS3 - Styling and positioning elements.
 JavaScript (ES6) - Core game logic, animations, and event handling.
 
 # 📂 Project Structure
-static\images\structure.png
+![Game Structure](static\images\structure.png)
 /duck-hunt-game
 │── /static
 │   ├── /images
