@@ -1,4 +1,4 @@
-🎯 **Duck Hunt - Retro Shooting Game**
+🎯 Duck Hunt - Retro Shooting Game
 A classic duck hunting game inspired by the old-school Duck Hunt! Built with JavaScript, HTML5 Canvas, and CSS, this project brings back the nostalgia of aiming, shooting, and scoring points.
 
 ![Duck Hunt Clone Gameplay](static\images\Recording2025-03-14131810-ezgif.com-video-to-gif-converter.mp4)
