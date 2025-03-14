@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: skyblue;
+}
+
+canvas {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: crosshair;
+    image-rendering: pixelated; /* Keeps the retro pixelated look */
+}
+
+.scoreboard {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-family: "Press Start 2P", cursive; /* Retro pixel font */
+    font-size: 20px;
+    color: white;
+}
+
+.lives {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    font-family: "Press Start 2P", cursive;
+    font-size: 20px;
+    color: white;
+}
+
+.wave-counter {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    font-family: "Press Start 2P", cursive;
+    font-size: 16px;
+    color: rgb(250, 250, 250);
+}
+
+.grass {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background: url("static/images/duck-hunt-dog-with-ducks-on-grass-ehuwmoyjt7zt4ln4.jpg") repeat-x;
+    background-size: cover;
+}
+
+/* Gun styling */
+.gun {
+    position: absolute;
+    bottom: 10px;
+    left: 80%;
+    transform: translateX(-50%);
+    width: 450px;  /* Increased gun size */
+    height: auto;
+    pointer-events: none; /* Ensures gun doesn't block clicks */
+}
+/* Muzzle flash effect (FIXED SIZE) */
+.muzzle-flash {
+    position: absolute;
+    width: 90px; /* Fixed width */
+    height: 250px; /* Fixed height */
+    background: radial-gradient(circle, rgba(255, 255, 0, 0.8) 0%, rgba(255, 255, 0, 0) 70%);
+    display: none;
+    pointer-events: none;
+}
